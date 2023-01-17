@@ -5,6 +5,7 @@ description: "Với thế mạnh nguồn nguyên liệu gỗ đồi dài 
   Đảo Borneo là nơi còn nguồn rừng trồng với tính chất cây gỗ chịu được thời
   tiết khắc nghiệt cộng với dây chuyền sản xuất công nghệ đạt tiêu chuẩn EN
   13329 đã giúp tạo "
+image: img/blog-flavor_wheel.jpg
 ---
 Sàn gỗ Robinson có hơn 50 đại diện trải rộng trên 25 quốc gia. Trong đó có Việt nam. Nhà máy Robinson có trụ sở tại Kuching, Sarawak, Malaysia với 03 dây chuyền sản xuất hiện đại. Tổng sản lượng hàng năm lên tới 5 triệu mét vuông cho các sản phẩm ván sàn gỗ công nghiệp.
 
